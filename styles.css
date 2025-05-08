@@ -116,13 +116,6 @@ h3, ul {
 ul {
     list-style-type: none;
     padding-left: 20px;
-    list-style-image: url("arro.png");
-}
-
-
-ul {
-    list-style-type: none;
-    padding-left: 20px;
 }
 
 /* Status Indicator Styles */
