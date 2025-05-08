@@ -120,6 +120,11 @@ ul {
 }
 
 
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
 /* Status Indicator Styles */
 [status="important"] {
     border: 6px dashed green;
