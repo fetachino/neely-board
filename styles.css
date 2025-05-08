@@ -226,3 +226,23 @@ ul {
         margin-top: inherit;
     }
 }
+
+/* Add this to your styles.css file */
+
+.viking-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+/* Optional: adjust list style for viking icons */
+.card-content ul {
+    list-style-type: none;
+    padding-left: 10px; /* Reduce padding since we're using the viking icon instead */
+}
+
+.card-content li {
+    display: flex;
+    align-items: center;
+}
